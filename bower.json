@@ -1,0 +1,9 @@
+{
+  "name": "haydenty",
+  "version": "0.0.1",
+  "description": "My personal website.",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}

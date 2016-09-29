@@ -1,0 +1,11 @@
+{
+  "name": "HaydenTy",
+  "description": "This is my personal website.",
+  "version": "0.0.1",
+  "auther": "Hayden Ty",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {}
+}
