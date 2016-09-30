@@ -26,3 +26,30 @@ img.center{
   margin-left: auto;
   margin-right: auto;
 }
+
+.masthead {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("assets/haydentybanner.jpeg");
+  background-size: cover;
+  background-position: 1%;
+  height: 300px;
+}
+
+.title {
+  background: rgba(0,0,0,.4);
+  border-radius: 5px;
+  padding: 20px 65px;
+  color: #eff1f4;
+  font-family: 'Yatra One', cursive;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+h2 {
+  font-size: 18px;
+}
