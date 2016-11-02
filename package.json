@@ -6,7 +6,11 @@
     "bower": "^1.7.9",
     "express": "^4.14.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  },
   "scripts": {
     "start": "node server.js"
   },
