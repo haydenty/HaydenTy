@@ -1,11 +1,35 @@
 {
-  "name": "HaydenTy",
+  "name": "haydenty",
   "description": "This is my personal website.",
   "version": "0.0.1",
-  "auther": "Hayden Ty",
   "dependencies": {
     "bower": "^1.7.9",
     "express": "^4.14.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haydenty/HaydenTy.git"
+  },
+  "keywords": [
+    "software engineer",
+    "software developer",
+    "freelance",
+    "minnesota",
+    "midwest"
+  ],
+  "author": "hayden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haydenty/HaydenTy/issues"
+  },
+  "homepage": "https://github.com/haydenty/HaydenTy#readme"
 }
